@@ -1,5 +1,6 @@
 # DISCOVER AND RE-WIND — ClothingStore
 ### WEDE6021 POE — Part 2 Prototype
+### GitHub Repository: [https://github.com/Ayanda001/-WAYNE_FINAL](https://github.com/Ayanda001/-WAYNE_FINAL)
 ### Setup: WAMP Server + phpMyAdmin + VS Code
 
 ---
