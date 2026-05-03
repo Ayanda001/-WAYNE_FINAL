@@ -44,9 +44,7 @@ Tray icon must be **green** before continuing.
 - A default fallback image is available at `images/placeholder.jpg`.
 
 ### 4 — Open site
-```
-http://localhost/WAYNE_FINAL/
-```
+Click the following hyperlink to open the full site: [http://localhost/WAYNE_FINAL/](http://localhost/WAYNE_FINAL/)
 
 ---
 
